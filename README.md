@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  
+  Sistema para trazer organização, com atendimento comum e preferencial.
 </h4>
 
 <p align="center">
